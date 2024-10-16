@@ -377,3 +377,17 @@ daic_woz_cleaned/489_TRANSCRIPT_cleaned.csv
 daic_woz_cleaned/490_TRANSCRIPT_cleaned.csv
 daic_woz_cleaned/491_TRANSCRIPT_cleaned.csv
 daic_woz_cleaned/492_TRANSCRIPT_cleaned.csv
+*.npy
+all_word.txt
+dict_idx.json
+data/cifar-10-batches-py/batches.meta
+data/cifar-10-batches-py/data_batch_1
+data/cifar-10-batches-py/data_batch_2
+data/cifar-10-batches-py/data_batch_3
+data/cifar-10-batches-py/data_batch_4
+data/cifar-10-batches-py/data_batch_5
+data/cifar-10-batches-py/readme.html
+data/cifar-10-batches-py/test_batch
+data/cifar-10-python.tar.gz
+daic_woz_text_raw/.DS_Store
+.DS_Store
