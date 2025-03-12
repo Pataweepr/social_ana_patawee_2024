@@ -378,6 +378,9 @@ daic_woz_cleaned/490_TRANSCRIPT_cleaned.csv
 daic_woz_cleaned/491_TRANSCRIPT_cleaned.csv
 daic_woz_cleaned/492_TRANSCRIPT_cleaned.csv
 *.npy
+*.png
+*.pth
+*.pt
 all_word.txt
 dict_idx.json
 data/cifar-10-batches-py/batches.meta
